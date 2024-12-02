@@ -20,5 +20,5 @@ If you're currently using K8StreamBot in your day-to-day operations, we advise y
 Thank you again for being a part of the K8StreamBot journey. We have appreciated your engagement, feedback, and support over the years.
 
 Sincerely,
-The K8StreamBot Team
+AxiomLab
 
