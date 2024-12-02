@@ -1,10 +1,24 @@
-# !!Important Announcement for 02.12.2024: K8StreamBot Sunset on December 10, 2024!!
-We regret to inform our valued users that K8StreamBot will be officially sunset on December 10, 2024. This decision comes as a result of ongoing challenges between the software's owner and K8, which have unfortunately made continued support and development untenable.
+# Important Announcement: K8StreamBot Sunset on December 10, 2024
 
-We understand the impact this may have on your workflow, and we want to assure you that we are committed to providing full support until the sunset date. After December 10, 2024, K8StreamBot will no longer be available for use or receive any further updates.
+We regret to announce that K8StreamBot will officially be sunset on December 10, 2024. After careful consideration, and due to the ongoing situation between the software's owner and K8, it has become clear that continuing the development and support of K8StreamBot is no longer viable. This decision, though difficult, is necessary to address the complexities surrounding the future of the software.
 
-We sincerely thank you for your support and loyalty throughout the years. Please feel free to reach out to our team with any questions or for assistance in transitioning to alternative solutions.
+Why is K8StreamBot being discontinued?
 
-Thank you for being part of the K8StreamBot community.
+The challenges between the software’s owner and K8 have created an environment in which we are unable to guarantee the level of service, support, and updates that our users expect and deserve. Despite our best efforts, it has become increasingly difficult to sustain the project under the current circumstances. As a result, the decision to sunset K8StreamBot was made with great consideration to both our users and the long-term viability of the platform.
 
-Sincerely, The AxiomLab Team
+### What does this mean for you?
+
+- Continued Access: You will still be able to use K8StreamBot until December 10, 2024, but no new updates, bug fixes, or feature enhancements will be provided after the announcement.
+Transition Assistance: We understand that this change may disrupt your current processes, and we are committed to assisting with the transition. Our team will offer resources, guidance, and suggestions for alternative solutions to help you migrate away from K8StreamBot smoothly.
+Final Version Availability: The final version of K8StreamBot will remain available for download until the sunset date. After December 10, 2024, the software will no longer be accessible.
+Looking Ahead:
+
+- We are incredibly grateful for the support and trust that you, our community, have shown throughout K8StreamBot's lifecycle. This decision does not come lightly, and we recognize the impact it may have on your workflow. Our team is dedicated to ensuring a smooth transition and will continue to provide support until the service ends. We encourage you to reach out with any questions, concerns, or requests for assistance during this period.
+
+If you're currently using K8StreamBot in your day-to-day operations, we advise you to begin exploring alternatives soon to avoid disruption after the sunset date. Our support team will remain available to help guide you through this change and assist with any necessary steps.
+
+Thank you again for being a part of the K8StreamBot journey. We have appreciated your engagement, feedback, and support over the years.
+
+Sincerely,
+The K8StreamBot Team
+
