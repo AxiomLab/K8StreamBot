@@ -1,6 +1,4 @@
-# K8StreamBot for MINECRAFT (OFFICIAL)
-#### This bot is used on MTR Streams
-#### Thanks to K8
+# StreamBot for MINECRAFT
 
 
 ## Commands:
